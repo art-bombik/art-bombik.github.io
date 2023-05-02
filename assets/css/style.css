@@ -1363,6 +1363,8 @@ body {
     display: flex;
     gap: 20px;
     margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
 }
 
 .about__img img {
@@ -1371,7 +1373,7 @@ body {
     border-radius: 20px;
 }
 
-/* .about__body {} */
+/* .about__body { } */
 
 .about__title {
     font-size: 30px;
@@ -1551,3 +1553,14 @@ body {
 p {
     text-indent: 30px;
 }
+
+
+.about__user {
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    line-height: 1.5;
+    font-weight: 700;
+    text-align: center;
+}
+
