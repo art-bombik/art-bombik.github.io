@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /#events/
-Disallow: /tel:0969576629/
-Sitemap: https://art-bombik.github.io/sitemap.xml
-Host: art-bombik.github.io
-
 User-agent: Yandex
 Disallow: /
 User-agent: YandexImages
@@ -15,3 +10,9 @@ User-agent: Mail.Ru
 Disallow: /
 User-agent: StackRambler
 Disallow: /
+User-Agent: YadirectBot
+Disallow: /
+User-Agent: YandexDirect
+Disallow: /
+Sitemap: https://art-bombik.github.io/sitemap.xml
+Host: https://art-bombik.github.io
