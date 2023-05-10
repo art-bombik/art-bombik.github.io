@@ -17,5 +17,6 @@ User-Agent: YadirectBot
 Disallow: /
 User-Agent: YandexDirect
 Disallow: /
+
 Sitemap: https://art-bombik.github.io/sitemap.xml
 Host: https://art-bombik.github.io
