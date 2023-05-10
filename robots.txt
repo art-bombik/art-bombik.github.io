@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+
 User-agent: Yandex
 Disallow: /
 User-agent: YandexImages
@@ -14,5 +15,9 @@ User-Agent: YadirectBot
 Disallow: /
 User-Agent: YandexDirect
 Disallow: /
+
+Allow: /*.css
+Allow: /*.webp
+
 Sitemap: https://art-bombik.github.io/sitemap.xml
 Host: https://art-bombik.github.io
