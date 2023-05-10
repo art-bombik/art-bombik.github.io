@@ -2,7 +2,6 @@ User-agent: *
 Allow: /
 Allow: /*.css
 Allow: /*.webp
-Disallow: /*.png
 
 User-agent: Yandex
 Disallow: /
