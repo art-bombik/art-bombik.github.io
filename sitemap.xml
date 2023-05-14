@@ -17,17 +17,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://art-bombik.github.io/event-3.html</loc>
-    <lastmod>2023-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://art-bombik.github.io/event-2.html</loc>
     <lastmod>2023-05-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://art-bombik.github.io/event-5.html</loc>
+    <loc>https://art-bombik.github.io/event-3.html</loc>
     <lastmod>2023-05-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
@@ -37,12 +32,17 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://art-bombik.github.io/event-7.html</loc>
+    <loc>https://art-bombik.github.io/event-5.html</loc>
     <lastmod>2023-05-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-6.html</loc>
+    <lastmod>2023-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/event-7.html</loc>
     <lastmod>2023-05-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
