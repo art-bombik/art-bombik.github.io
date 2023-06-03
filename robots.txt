@@ -6,12 +6,6 @@ Allow: /*.webp
 User-Agent: Yandex
 Disallow: /
 
-User-Agent: YadirectBot
-Disallow: /
-
-User-Agent: YandexDirect
-Disallow: /
-
 User-agent: Mail.RU_Bot
 Disallow: /
 
