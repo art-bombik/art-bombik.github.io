@@ -3,10 +3,16 @@ Allow: /
 Allow: /*.css
 Allow: /*.webp
 
+User-Agent: Yandex
+Disallow:
+
 User-Agent: YadirectBot
 Disallow:
 
 User-Agent: YandexDirect
+Disallow:
+
+User-agent: Mail.RU_Bot
 Disallow:
 
 Sitemap: https://art-bombik.github.io/sitemap.xml
