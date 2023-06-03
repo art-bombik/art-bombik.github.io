@@ -1,13 +1,10 @@
+User-Agent: Yandex
+Disallow: /
+
 User-agent: *
 Allow: /
 Allow: /*.css
 Allow: /*.webp
-
-User-Agent: Yandex
-Disallow: /
-
-User-agent: Mail.RU_Bot
-Disallow: /
 
 Sitemap: https://art-bombik.github.io/sitemap.xml
 Host: https://art-bombik.github.io
