@@ -619,22 +619,27 @@ body {
     .practice__column {
         flex: 0 1 100%;
     }
-
-
 }
 
 /* .practice__column:not(:last-child) {
     margin-bottom: 10px;
 } */
 
-/* .practice__item {} */
+.practice__item {
+    border: 1px solid transparent;
+    transition: all 0.3s ease 0s;
+}
+
+.practice__item:hover {
+    background-color: transparent;
+    border: 1px solid #17213C;
+}
 
 .item-practice {
     background-color: white;
     display: flex;
     height: 100%;
     flex-direction: column;
-
 }
 
 .item-practice__content {
@@ -655,8 +660,6 @@ body {
 .item-practice__link:not(:last-child) {
     margin-bottom: 15px;
 }
-
-
 
 .item-practice__text {
     color: #737373;
@@ -1563,4 +1566,3 @@ p {
     font-weight: 700;
     text-align: center;
 }
-
