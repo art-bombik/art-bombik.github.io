@@ -7,4 +7,4 @@ Allow: /*.css
 Allow: /*.webp
 
 Sitemap: https://art-bombik.github.io/sitemap.xml
-Host: https://art-bombik.github.io
+Host: https://art-bombik.github.io/
