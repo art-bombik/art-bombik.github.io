@@ -1573,3 +1573,6 @@ p {
     font-weight: 700;
     text-align: center;
 }
+.mt-title {
+    margin-top: 50px;
+}
