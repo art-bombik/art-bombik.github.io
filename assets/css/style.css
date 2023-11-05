@@ -624,13 +624,14 @@ body {
 } */
 
 .practice__item {
-    border: 1px solid transparent;
     transition: all 0.3s ease 0s;
 }
 
 .practice__item:hover {
-    background-color: transparent;
-    border: 1px solid #17213C;
+transform: scale(1.05);
+border-radius: 0px;
+box-shadow: 5px 5px 41px #aba8a8,
+-5px -5px 41px #ffffff;
 }
 
 .item-practice {
@@ -651,7 +652,7 @@ body {
     display: inline-block;
 }
 
-.item-practice__link:hover {
+.item-practice:hover .item-practice__link {
     text-decoration: underline;
 }
 
