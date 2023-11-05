@@ -669,6 +669,7 @@ box-shadow: 5px 5px 41px #aba8a8,
 .item-practice__image {
     padding-bottom: 60%;
     display: block;
+    transform: scale(1.0001);
 }
 
 /* ------------------------------------------------------ */
