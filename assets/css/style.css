@@ -624,6 +624,10 @@ body {
     overflow: hidden;
 }
 
+.practice__item a {
+    overflow: hidden;
+}
+
 .practice__item a img {
     transition: all 0.3s ease 0s;
 }
@@ -643,6 +647,7 @@ body {
     padding: 20px;
     flex: 1 1 auto;
     text-align: center;
+    overflow: hidden;
 }
 
 .item-practice__link {
