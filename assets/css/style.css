@@ -629,10 +629,10 @@ body {
 }
 
 .practice__item a img {
-    transition: all 0.3s ease 0s;
+    transition: transform 0.5s;
 }
 
-.practice__item a:hover img {
+.practice__column:hover .practice__item a img {
     transform: scale(1.1);
 }
 
