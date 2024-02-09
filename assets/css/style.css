@@ -387,21 +387,18 @@ body {
     flex-direction: column;
     text-align: center;
     align-items: center;
+    transition: 0.5s ease;
+}
+
+.services__item:hover {
+    background-color: #252B42;
+    color: white;
 }
 
 @media (max-width: 479px) {
     .services__item {
         padding: 25px;
     }
-}
-
-.services__item-green {
-    background-color: #252B42;
-    color: white;
-}
-
-.services__item-green .item-services__text {
-    color: white;
 }
 
 .item-service>*:not(:last-child) {
@@ -425,6 +422,11 @@ body {
 .item-services__text {
     color: #737373;
     line-height: 142%;
+    transition: color 0.3s;
+}
+
+.item-service:hover .item-services__text {
+    color: white;
 }
 
 /* --------------------Advantages-------------- */
@@ -486,7 +488,13 @@ body {
     text-align: center;
     font-weight: 700;
     height: 100%;
+    transition: 0.3s ease;
+    box-shadow: 0px 0px 17px 1px rgba(34, 60, 80, 0.32);
 }
+
+.advantages__item:hover {}
+
+
 
 .advantages__item>*:not(:last-child) {
     margin-bottom: 10px;
@@ -582,6 +590,7 @@ body {
 .practice__item {
     transition: all 0.3s ease 0s;
     overflow: hidden;
+    box-shadow: 0px 0px 17px 1px rgba(34, 60, 80, 0.32);
 }
 
 .practice__item a {
@@ -934,6 +943,7 @@ body {
 
 .getintouch__items {
     margin: 0 -15px;
+    box-shadow: 0px 0px 17px 1px rgba(34, 60, 80, 0.32);
 }
 
 @media (min-width: 992px) {
