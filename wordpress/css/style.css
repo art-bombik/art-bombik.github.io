@@ -1,3 +1,7 @@
+/*
+Theme Name: Bimbik
+*/
+
 @import url("https://fonts.googleapis.com/css?family=Montserrat:500,600,700,800&display=swap&subset=cyrillic-ext");
 
 *,
@@ -42,12 +46,6 @@ body {
     color: #252B42;
     font-family: "Montserrat";
     background: #FAFAFA;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
-    display: inline-block;
 }
 
 .wrapper {
@@ -744,6 +742,7 @@ a {
     margin-bottom: 10px;
 }
 
+
 .whoweare__text {
     color: #737373;
     font-size: 14px;
@@ -1247,13 +1246,9 @@ a {
 
 .social__item {
     text-align: center;
-    display: flex;
-    gap: 5px;
-    align-items: center
 }
 
 .den:hover {
-    display: inline-block;
     text-decoration: underline;
 }
 
@@ -1292,7 +1287,6 @@ a {
     vertical-align: text-top;
     color: black;
     text-decoration: none;
-    line-height: 1.2;
 }
 
 /* contacts --------------------------------------------------------------------- */
@@ -1472,7 +1466,7 @@ a {
 }
 
 .page__events {
-    margin-top: 125px;
+    margin-top: 100px;
 }
 
 .entry-content {
