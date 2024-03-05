@@ -44,6 +44,12 @@ body {
     background: #FAFAFA;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
+
 .wrapper {
     min-height: 100%;
     overflow: hidden;
@@ -738,14 +744,17 @@ body {
     margin-bottom: 10px;
 }
 
-
 .whoweare__text {
     color: #737373;
     font-size: 14px;
     line-height: 142%;
     letter-spacing: 0.2px;
     text-align: justify;
+}
 
+.whoweare__2text p:not(:last-child),
+.whoweare__text p:not(:last-child) {
+    margin-bottom: 10px;
 }
 
 .whoweare__2text {
@@ -1238,9 +1247,13 @@ body {
 
 .social__item {
     text-align: center;
+    display: flex;
+    gap: 5px;
+    align-items: center
 }
 
 .den:hover {
+    display: inline-block;
     text-decoration: underline;
 }
 
@@ -1279,6 +1292,7 @@ body {
     vertical-align: text-top;
     color: black;
     text-decoration: none;
+    line-height: 1.2;
 }
 
 /* contacts --------------------------------------------------------------------- */
@@ -1349,13 +1363,8 @@ body {
 /* .about__content:nth-child(2) {} */
 
 .container__svetlana {
-    background: white;
-    padding: 30px 0 30px 0;
-}
 
-.container__svetlana:nth-child(2) {
-    background: white;
-    padding: 30px 0 0px 0;
+    padding: 30px 0 30px 0;
 }
 
 .container__osikov {
@@ -1444,10 +1453,6 @@ body {
     margin-top: 10px;
 }
 
-p {
-    text-indent: 30px;
-}
-
 .about__user {
     justify-content: center;
     align-items: center;
@@ -1455,6 +1460,7 @@ p {
     line-height: 1.5;
     font-weight: 700;
     text-align: center;
+    margin-top: 25px;
 }
 
 .mt-title {
@@ -1463,4 +1469,27 @@ p {
 
 .tdu {
     text-decoration: underline;
+}
+
+.page__events {
+    margin-top: 125px;
+}
+
+.entry-content {
+    margin-top: 100px;
+}
+
+.about {
+    margin-top: 70px;
+}
+
+@media (max-width: 768.98px) {
+
+    .about {
+        margin-top: 100px;
+    }
+}
+
+.about__text p:not(:last-child) {
+    margin-bottom: 10px;
 }
