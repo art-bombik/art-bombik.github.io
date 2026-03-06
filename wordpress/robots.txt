@@ -1,0 +1,7 @@
+User-Agent: Yandex
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://art-bombik.github.io/sitemap.xml
