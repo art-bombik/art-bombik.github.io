@@ -1,7 +1,8 @@
-User-Agent: Yandex
+User-agent: Yandex
 Disallow: /
 
 User-agent: *
+Disallow: /wordpress/
 Allow: /
 
 Sitemap: https://art-bombik.github.io/sitemap.xml
