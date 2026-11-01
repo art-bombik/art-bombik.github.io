@@ -1,25 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://art-bombik.github.io/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/mainblock/cover.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/mainblock/cover.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://art-bombik.github.io/about.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/about.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/about/osikov.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/about/denis.webp</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/ostapchuk.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/about.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/about.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/osikov.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/denis.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/ostapchuk.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://art-bombik.github.io/bombik.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/bombik.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/bombik.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/bombik.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-0.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-7.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-8.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-9.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-10.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/about/img-11.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/bombik.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/bombik.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/bombik.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/bombik.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/about/img-0.webp</image:loc>
     </image:image>
@@ -59,7 +140,35 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-1.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-1.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-1.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-1.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/1_monovystava_i_de_ja/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/1_monovystava_i_de_ja/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/1_monovystava_i_de_ja/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/1_monovystava_i_de_ja/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/1_monovystava_i_de_ja/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/1_monovystava_i_de_ja/img-6.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-1.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-1.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-1.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-1.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/1_monovystava_i_de_ja/img-1.webp</image:loc>
     </image:image>
@@ -81,7 +190,29 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-2.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-2.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/2_poetychnyj_vechir/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/2_poetychnyj_vechir/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/2_poetychnyj_vechir/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/2_poetychnyj_vechir/img-4.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-2.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-2.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-2.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/2_poetychnyj_vechir/img-3.webp</image:loc>
     </image:image>
@@ -97,7 +228,32 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-3.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-3.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-3.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-3.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/3_monovystava_vodnochas/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/3_monovystava_vodnochas/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/3_monovystava_vodnochas/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/3_monovystava_vodnochas/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/3_monovystava_vodnochas/img-5.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-3.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-3.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-3.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-3.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/3_monovystava_vodnochas/img-1.webp</image:loc>
     </image:image>
@@ -116,7 +272,77 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-4.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-4.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-4.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-4.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-7.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-8.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-9.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-10.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-11.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-12.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-13.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-14.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-15.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-16.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-17.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-18.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-19.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-20.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-4.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-4.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-4.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-4.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/4_improvizacija/img-3.webp</image:loc>
     </image:image>
@@ -180,7 +406,41 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-5.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-5.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-5.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-5.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-7.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-8.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-5.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-5.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-5.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-5.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/5_muzychne_smuzi/img-7.webp</image:loc>
     </image:image>
@@ -208,7 +468,62 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-6.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-6.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-6.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-6.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-7.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-8.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-9.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-10.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-11.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-12.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-13.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-14.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-15.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-6.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-6.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-6.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-6.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/6_monovystava_oko_za_oko/img-1.webp</image:loc>
     </image:image>
@@ -257,7 +572,50 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-7.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-7.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-7.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-7.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-7.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-8.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-9.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-10.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-11.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-7.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-7.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-7.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-7.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/7_tvorche_asorti/img-1.webp</image:loc>
     </image:image>
@@ -294,7 +652,41 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-8.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-8.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-8.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-8.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-8.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-9.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-8.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-8.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-8.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-8.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/8_vechir_poezii_pidstrelena_muza/img-5.webp</image:loc>
     </image:image>
@@ -322,7 +714,38 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-9.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-9.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-9.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-9.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/9_lyalkova_vistava_teatru_baby/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/9_lyalkova_vistava_teatru_baby/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/9_lyalkova_vistava_teatru_baby/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/9_lyalkova_vistava_teatru_baby/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/9_lyalkova_vistava_teatru_baby/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/9_lyalkova_vistava_teatru_baby/img-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/9_lyalkova_vistava_teatru_baby/img-7.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-9.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-9.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-9.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-9.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/9_lyalkova_vistava_teatru_baby/img-1.webp</image:loc>
     </image:image>
@@ -347,7 +770,53 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-10.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-10.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-10.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-10.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-5.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-6.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-7.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-8.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-9.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-10.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-11.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-12.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-10.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-10.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-10.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-10.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/10_anti_helouyin/img-1.webp</image:loc>
     </image:image>
@@ -387,7 +856,29 @@
   </url>
   <url>
     <loc>https://art-bombik.github.io/event-11.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-11.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-11.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-11.html"/>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/11_gitara_skripka_violonchel_vokal/img-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/11_gitara_skripka_violonchel_vokal/img-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/11_gitara_skripka_violonchel_vokal/img-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://art-bombik.github.io/assets/img/events/11_gitara_skripka_violonchel_vokal/img-4.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://art-bombik.github.io/en/event-11.html</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://art-bombik.github.io/event-11.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://art-bombik.github.io/en/event-11.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://art-bombik.github.io/event-11.html"/>
     <image:image>
       <image:loc>https://art-bombik.github.io/assets/img/events/11_gitara_skripka_violonchel_vokal/img-1.webp</image:loc>
     </image:image>

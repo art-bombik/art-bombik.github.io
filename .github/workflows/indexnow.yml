@@ -1,0 +1,26 @@
+name: IndexNow
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: indexnow
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Send changed pages
+        env:
+          BEFORE: ${{ github.event.before }}
+          INDEXNOW_KEY: b152939c0c8fb486ff9cd3729047d02b
+        run: python3 .github/scripts/indexnow.py
